@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/IntentsPerformances.iml" filepath="$PROJECT_DIR$/IntentsPerformances.iml" />
+      <module fileurl="file://C:\Users\Ashley\AndroidStudioProjects\cis-3334-unit-6-intents-apraisem\IntentsPerformances.iml" filepath="C:\Users\Ashley\AndroidStudioProjects\cis-3334-unit-6-intents-apraisem\IntentsPerformances.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Ashley\AndroidStudioProjects\cis-3334-unit-6-intents-apraisem\app\app.iml" filepath="C:\Users\Ashley\AndroidStudioProjects\cis-3334-unit-6-intents-apraisem\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cis-3334-unit-6-intents-apraisem.iml" filepath="$PROJECT_DIR$/cis-3334-unit-6-intents-apraisem.iml" />
     </modules>
   </component>
 </project>
